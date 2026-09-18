@@ -1,0 +1,6 @@
+{
+  "name": "DARUKAA.EARTH — Nature Intelligence & Geospatial MRV Platform",
+  "description": "DARUKAA.EARTH is a science-driven nature intelligence, carbon sequestration accounting, and geospatial biodiversity analytics platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
